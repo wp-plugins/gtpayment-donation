@@ -4,7 +4,7 @@ Donate link: http://gtpayment.com
 Tags: payment,  shortcode, widget, donate, button, sidebar
 Requires at least: 2.7
 Tested up to: 2.8.4
-Stable tag: 1.0
+Stable tag: 1.0.0
 
 Easy and simple setup and insertion of GTPayment donate buttons with a shortcode or through a sidebar Widget. Donation purpose can be set for each button. A few other customization options are available as well.
 
