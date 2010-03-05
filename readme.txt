@@ -57,8 +57,8 @@ More details https://gtpayment.com
 
 == Screenshots ==
 
-1. Admin page where you setup the plugin
-1. Sidebar Widget Admin Options
+1. screenshot-1.jpg
+2. screenshot-2.jpg
 
 == Changelog ==
 
