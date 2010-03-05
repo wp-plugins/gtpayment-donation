@@ -2,10 +2,10 @@
 /*
 Plugin Name: GTPayment Donations
 Description: Easy and simple setup and insertion of GTPayment donate buttons with a shortcode or through a sidebar Widget. Donation purpose can be set for each button. A few other customization options are available as well.
-Version: 1.4.3
+Version: 1.0.0
 Author: Harry He
 Email: harry.he@gtpayment.com
-Author URI: http://gtpayment.com/
+Author URI: https://gtpayment.com/
 Text Domain: GTPayment-donations 
 
 Copyright 2010 Harry He  (email : harry.he [at] gtpayment [dot] com)
