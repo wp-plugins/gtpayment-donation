@@ -1,7 +1,3 @@
-Powered by Harry He
-If you have any question, please do not hesitate to send email to me
-harry.he@gtpayment.com
-
 === GTPayment Donations ===
 Contributors: GTPayment
 Tags: GTPayment, donation, shortcode, widget, donate, button, sidebar
