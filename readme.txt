@@ -1,7 +1,7 @@
 === GTPayment Donations ===
 Contributors: GTPayment
 Donate link: http://gtpayment.com
-Tags: code generator,  shortcode, widget, donate, button, sidebar
+Tags: payment,  shortcode, widget, donate, button, sidebar
 Requires at least: 2.7
 Tested up to: 2.8.4
 Stable tag: 1.0
