@@ -1,10 +1,7 @@
-Powered by Harry He
-If you have any question, please do not hesitate to send email to me
-harry.he@gtpayment.com
-
 === GTPayment Donations ===
 Contributors: GTPayment
-Tags: GTPayment, donation, shortcode, widget, donate, button, sidebar
+Donate link: http://gtpayment.com
+Tags: payment,  shortcode, widget, donate, button, sidebar
 Requires at least: 2.7
 Tested up to: 2.8.4
 Stable tag: 1.0
@@ -52,6 +49,12 @@ See the [Changelog](http://wordpress.org/extend/plugins/GTPayment-donations/chan
 2. After Deactivation a 'Delete' link appears below the plugin name, follow the link and confim with 'Yes, Delete these files'.
 3. This will delete all the plugin files from the server as well as erasing all options the plugin has stored in the database.
 
+== Frequently Asked Questions ==
+
+= Link =
+
+More details https://gtpayment.com
+
 == Screenshots ==
 
 1. Admin page where you setup the plugin
@@ -59,5 +62,14 @@ See the [Changelog](http://wordpress.org/extend/plugins/GTPayment-donations/chan
 
 == Changelog ==
 
-= Version 1.0 - 7 May 2009 =
+= 1.0 =
+* First version
+
+
+== Upgrade Notice ==
+
+= 1.0 =
+First version
+
+= Version 1.0 - 6 March 2010 =
  * Initial Release
