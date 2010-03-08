@@ -10,7 +10,8 @@ Easy and simple setup and insertion of GTPayment donate buttons with a shortcode
 
 == Description ==
 
-Adds a GTPayment donation shortcode and sidebar Widget to WordPress. The options menu lets you setup you GTPayment ID and a few other optional settings. You can choose which donation button you want to use or if you want to use your own button. You can also set an optional default purpose and reference which can be overridden on each inserted instance with the shortcode options or in the Widget settings. There is also options available for currency, localization of the button, custom payment page style and the return page.
+Easy and simple payment system, support currency CNY, USD, SGD.
+GTPayment is the world's premium Payment Service Provider. It is compatible with most of popular e-payment platforms worldwide. We provide not only e-payment channels for enterprise and individuals users, but also local and international e-payment solutions for customers in different countries. Our scalable online payment platform offers an unrivaled portfolio of local payment methods in over 100 countries and for 80 currencies, which enables you to realize your global ambitions and expand your e-commerce activities across the world. 
 
 = Widget =
 
