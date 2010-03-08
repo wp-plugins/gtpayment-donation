@@ -31,7 +31,7 @@ as an example.
 
 This donation plugin generates valid XHTML Transitional and Strict code.
 
-For complete usage instructions see: [GTPayment Donations](http://coding.cglounge.com/wordpress-plugins/GTPayment-donations/ "Complete Usage Instructions for GTPayment Donations")
+For complete usage instructions see: [GTPayment Donations](http://gtpayment.com "Complete Usage Instructions for GTPayment Donations")
 
 See the [Changelog](http://wordpress.org/extend/plugins/GTPayment-donations/changelog/) for what's new. Available [Translations](http://coding.cglounge.com/wordpress-plugins/GTPayment-donations/#translations).
 
