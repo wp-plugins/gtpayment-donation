@@ -1,7 +1,7 @@
 === GTPayment Donations ===
 Contributors: GTPayment
 Donate link: http://gtpayment.com
-Tags: payment,  shortcode, widget, donate, button, sidebar
+Tags: payment,  shortcode, widget, donate, button, sidebar, alipay, paypal, visa, mastercard, china unionpay
 Requires at least: 2.7
 Tested up to: 2.8.4
 Stable tag: 1.0.0
@@ -11,6 +11,7 @@ Easy and simple setup and insertion of GTPayment donate buttons with a shortcode
 == Description ==
 
 Easy and simple payment system, support currency CNY, USD, SGD.
+Intergation alipay, paypal, moneybookers, visa mastercard, china union pay payment system.
 GTPayment is the world's premium Payment Service Provider. It is compatible with most of popular e-payment platforms worldwide. We provide not only e-payment channels for enterprise and individuals users, but also local and international e-payment solutions for customers in different countries. Our scalable online payment platform offers an unrivaled portfolio of local payment methods in over 100 countries and for 80 currencies, which enables you to realize your global ambitions and expand your e-commerce activities across the world. 
 
 = Widget =
